@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react'
-import Tasks from './components/tasks'
+import Tasks from './components/Tasks'
 import Adder from './components/Adder'
 import { Routes, Route } from 'react-router-dom'
 import TaskDescription from './pages/TaskDescription'
